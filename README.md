@@ -30,4 +30,4 @@ Working with the modules was a bit confusing. I've imported and exported files u
 # Live Page
 
 Here is a link to the deployed site.
-https://davidmstanleyjr.github.io/bootleg-google/
+https://davipedia.netlify.app/
