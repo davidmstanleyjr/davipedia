@@ -1,6 +1,6 @@
 # davipedia
 
-This is search site. I fashioned it to look like Wikipedia site using the Wikipedia API. I've always been curious about the Wiki API and I wanted to use it. Plus I wanted more experience making API calls and I wanted to use modules to import and export files.
+This is my Wikipedia search site. I fashioned it to look like the Wikipedia site using the Wikipedia API. I've always been curious about the Wiki API and I wanted to use it. Plus I wanted more experience making API calls and I wanted to use modules to import and export files.
 
 # Environment Setup
 
